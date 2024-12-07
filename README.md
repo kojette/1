@@ -1,2 +1,1 @@
-# 1
-오소소과제2-1
+Initial commit
